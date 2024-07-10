@@ -39,4 +39,4 @@ jobs:
         with:
           project: "sexmastercc-point-blank-89"
           entrypoint: "index.js"
-          root: "/"
+          root: ""
